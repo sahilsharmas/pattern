@@ -1,12 +1,12 @@
-class pattern
+class pattern1
 {
-	public static void main (string args[])
+	public static void main (String args[])
 {
 
 {for(int i =5; i<0;i++)
 {for(int j =5;j<=i;j++)
 { 
-system.out.println("x");
+System.out.println("x");
 
 
 }System.out.println("");
